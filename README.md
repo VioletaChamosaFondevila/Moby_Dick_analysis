@@ -1,0 +1,1 @@
+In this workspace, I scraped the novel Moby Dick from the website Project Gutenberg (which contains a large corpus of books) using the Python requests package. I extracted words from this web data using BeautifulSoup before analyzing the distribution of words using the Natural Language ToolKit (nltk) and Counter.
